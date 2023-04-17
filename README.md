@@ -8,8 +8,6 @@
 
 - The PCA cluster is then compared to the original cluster to determine which is the more accurate cluster model.
 
-![elbow](Resources/elbow.png)
-
 - The cluster that uses the PCA data is more defined than when we use the initial data, suggesting that the PCA model has less noise and more separability than the original model.
 
 ![cluster](Resources/cluster.png)
