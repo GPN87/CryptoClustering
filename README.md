@@ -10,7 +10,5 @@
 
 - The cluster that uses the PCA data is more defined than when we use the initial data, suggesting that the PCA model has less noise and more separability than the original model.
 
-![cluster](Resources/cluster.png)
-
 ## Access and Usage
 - To clone this repository enter the following command ``git clone https://github.com/GPN87/CryptoClustering.git``
